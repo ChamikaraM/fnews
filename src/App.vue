@@ -3,7 +3,6 @@
     <header class="bg-white shadow sticky top-0 z-10">
       <div class="container mx-auto px-4 py-4 flex justify-between items-center">
         <h1 class="text-2xl sm:text-3xl font-bold text-indigo-800">🗞️ News Reader</h1>
-        <span class="text-sm text-gray-500">Powered by GNews API</span>
       </div>
     </header>
 
@@ -74,7 +73,7 @@
     </main>
 
     <footer class="mt-12 text-center text-sm text-gray-500 pb-8">
-      Made by CMT using Vue 3 & Tailwind CSS
+      Made by CMT using Vue 3 & Tailwind CSS | Powered by GNews API
     </footer>
   </div>
 </template>
